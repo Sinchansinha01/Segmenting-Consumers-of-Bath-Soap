@@ -5,3 +5,6 @@ CRISA, a respected market research firm, is on a mission. Traditionally, compani
 This case study focuses specifically on the Bath Soaps category, a common but competitive market. CRISA has collected a rich dataset covering details like how often customers buy soaps, how loyal they are to certain brands, their sensitivity to price, and what influences them discounts, packaging, or quality. 
 
 The Goal? Create smarter customer segments based on actual Purchase Behaviour rather than just demographic labels.
+
+Objective:
+To segment consumers based on their bath soap purchasing behaviors using cluster analysis, and to derive actionable business insights from these segments.
